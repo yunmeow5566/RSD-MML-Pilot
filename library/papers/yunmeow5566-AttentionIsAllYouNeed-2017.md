@@ -1,0 +1,3 @@
+- Paper Title: Attention Is All You Need.
+- Source: https://arxiv.org/abs/1706.03762
+- Personal Note: [yunmeow5566] This paper is one of the most impactful breakthroughs in modern natural language processing. It introduced the concept of self‑attention and the transformer architecture, with solid practical optimizations for both efficiency and scalability. Since then, the attention mechanism has been applied across broad machine learning domains and has achieved revolutionary improvements in model quality.

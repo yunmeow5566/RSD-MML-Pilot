@@ -1,0 +1,5 @@
+# Add project dependencies here.
+numpy
+easyocr
+matplotlib
+torch

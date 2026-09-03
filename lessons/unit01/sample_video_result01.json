@@ -1,0 +1,1286 @@
+{
+	"id": "ef7d95df-9cbe-4c71-9a61-abc2d786e135",
+	"status": "Succeeded",
+	"result": {
+		"analyzerId": "prebuilt-videoSearch",
+		"apiVersion": "2026-06-01-preview",
+		"createdAt": "2026-08-12T20:43:03Z",
+		"stringEncoding": "codePoint",
+		"warnings": [],
+		"infos": [
+			{
+				"code": "LLMStats",
+				"message": "completion calls: 2; avg completion latency: 8.57s; total completion latency: 17.14s"
+			}
+		],
+		"contents": [
+			{
+				"markdown": "# Video: 00:01.881 => 01:34.050\nWidth: 1920\nHeight: 1080\n\nTranscript\n```\nWEBVTT\n\n00:02.110 --> 00:08.190\n<Speaker 1>Now, recall that this course is called Introduction to Modern Machine Learning and Applications.\n\n00:08.510 --> 00:12.830\n<Speaker 1>In this unit, we will focus on the keyword, machine learning.\n\n00:14.670 --> 00:17.310\n<Speaker 1>Let's start with the definition of machine learning.\n\n00:17.710 --> 00:24.430\n<Speaker 1>From historical or evolutional perspective, machine learning is a subfield of artificial intelligence.\n\n00:24.830 --> 00:32.190\n<Speaker 1>Artificial intelligence means we want to have computers to mimic human intelligence to accomplish tasks for us.\n\n00:33.030 --> 00:44.030\n<Speaker 1>And over the past 10 years, machine learning has become a mainstream approach for artificial intelligence problems because of the rapid improvement in computational power.\n\n00:44.910 --> 00:50.350\n<Speaker 1>From terminology perspective, machine learning means a set of algorithms or\n\n00:51.390 --> 00:57.230\n<Speaker 1>methods that will empower computers to perform tasks without writing single rules.\n\n00:57.630 --> 01:07.470\n<Speaker 1>For example, if you want to teach a computer to distinguish dogs and cats, you will not want to write something like, oh, most dogs' ears are round and so on.\n\n01:07.870 --> 01:14.670\n<Speaker 1>Instead, you might want to collect a lot of pictures of dogs and cats, fit them into a machine learning training pipeline.\n\n01:14.990 --> 01:19.230\n<Speaker 1>This pipeline will identify underlying patterns and build a model.\n\n01:19.790 --> 01:30.990\n<Speaker 1>Then, during the testing time, you can fit a model as well as an unseen new image to ask this model whether this image belongs to a cat or dog.\n\n01:31.710 --> 01:34.510\n<Speaker 1>So that's the general idea about machine learning.\n```\n\nKey Frames\n- 00:01.881 ![](keyFrame.1881.jpg)\n- 00:03.762 ![](keyFrame.3762.jpg)\n- 00:05.643 ![](keyFrame.5643.jpg)\n- 00:07.524 ![](keyFrame.7524.jpg)\n- 00:09.405 ![](keyFrame.9405.jpg)\n- 00:11.286 ![](keyFrame.11286.jpg)\n- 00:13.167 ![](keyFrame.13167.jpg)\n- 00:15.048 ![](keyFrame.15048.jpg)\n- 00:16.929 ![](keyFrame.16929.jpg)\n- 00:18.810 ![](keyFrame.18810.jpg)\n- 00:20.691 ![](keyFrame.20691.jpg)\n- 00:22.572 ![](keyFrame.22572.jpg)\n- 00:24.453 ![](keyFrame.24453.jpg)\n- 00:26.334 ![](keyFrame.26334.jpg)\n- 00:28.215 ![](keyFrame.28215.jpg)\n- 00:30.096 ![](keyFrame.30096.jpg)\n- 00:31.977 ![](keyFrame.31977.jpg)\n- 00:33.858 ![](keyFrame.33858.jpg)\n- 00:35.739 ![](keyFrame.35739.jpg)\n- 00:37.620 ![](keyFrame.37620.jpg)\n- 00:39.501 ![](keyFrame.39501.jpg)\n- 00:41.382 ![](keyFrame.41382.jpg)\n- 00:43.263 ![](keyFrame.43263.jpg)\n- 00:45.144 ![](keyFrame.45144.jpg)\n- 00:47.025 ![](keyFrame.47025.jpg)\n- 00:48.906 ![](keyFrame.48906.jpg)\n- 00:50.787 ![](keyFrame.50787.jpg)\n- 00:52.668 ![](keyFrame.52668.jpg)\n- 00:54.549 ![](keyFrame.54549.jpg)\n- 00:56.430 ![](keyFrame.56430.jpg)\n- 00:58.311 ![](keyFrame.58311.jpg)\n- 01:00.192 ![](keyFrame.60192.jpg)\n- 01:02.073 ![](keyFrame.62073.jpg)\n- 01:03.954 ![](keyFrame.63954.jpg)\n- 01:05.835 ![](keyFrame.65835.jpg)\n- 01:07.716 ![](keyFrame.67716.jpg)\n- 01:09.597 ![](keyFrame.69597.jpg)\n- 01:11.478 ![](keyFrame.71478.jpg)\n- 01:13.359 ![](keyFrame.73359.jpg)\n- 01:15.240 ![](keyFrame.75240.jpg)\n- 01:17.121 ![](keyFrame.77121.jpg)\n- 01:19.002 ![](keyFrame.79002.jpg)\n- 01:20.883 ![](keyFrame.80883.jpg)\n- 01:22.764 ![](keyFrame.82764.jpg)\n- 01:24.645 ![](keyFrame.84645.jpg)\n- 01:26.526 ![](keyFrame.86526.jpg)\n- 01:28.407 ![](keyFrame.88407.jpg)\n- 01:30.288 ![](keyFrame.90288.jpg)\n- 01:32.169 ![](keyFrame.92169.jpg)\n- 01:34.050 ![](keyFrame.94050.jpg)",
+				"fields": {
+					"Summary": {
+						"type": "string",
+						"valueString": "The video segment introduces the course titled 'Introduction to Modern Machine Learning and Applications' and focuses on defining machine learning. The instructor explains that machine learning is a subfield of artificial intelligence, which aims to have computers mimic human intelligence to perform tasks. The segment highlights the rise of machine learning as a dominant approach in AI over the past decade due to advances in computational power. It describes machine learning as a collection of algorithms and models that enable computers to perform tasks without explicitly programmed rules. An example is given about teaching a computer to distinguish between dogs and cats by training on many images rather than writing specific rules. The segment concludes by explaining that machine learning identifies patterns in existing data and applies them to new, unseen data to accomplish tasks."
+					}
+				},
+				"kind": "audioVisual",
+				"startTimeMs": 1881,
+				"endTimeMs": 94050,
+				"width": 1920,
+				"height": 1080,
+				"KeyFrameTimesMs": [
+					1881,
+					3762,
+					5643,
+					7524,
+					9405,
+					11286,
+					13167,
+					15048,
+					16929,
+					18810,
+					20691,
+					22572,
+					24453,
+					26334,
+					28215,
+					30096,
+					31977,
+					33858,
+					35739,
+					37620,
+					39501,
+					41382,
+					43263,
+					45144,
+					47025,
+					48906,
+					50787,
+					52668,
+					54549,
+					56430,
+					58311,
+					60192,
+					62073,
+					63954,
+					65835,
+					67716,
+					69597,
+					71478,
+					73359,
+					75240,
+					77121,
+					79002,
+					80883,
+					82764,
+					84645,
+					86526,
+					88407,
+					90288,
+					92169,
+					94050
+				],
+				"transcriptPhrases": [
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 2110,
+						"endTimeMs": 8190,
+						"text": "Now, recall that this course is called Introduction to Modern Machine Learning and Applications.",
+						"confidence": 0.816,
+						"words": [
+							{
+								"startTimeMs": 2110,
+								"endTimeMs": 2510,
+								"text": "Now,"
+							},
+							{
+								"startTimeMs": 2510,
+								"endTimeMs": 3030,
+								"text": "recall"
+							},
+							{
+								"startTimeMs": 3030,
+								"endTimeMs": 3310,
+								"text": "that"
+							},
+							{
+								"startTimeMs": 3310,
+								"endTimeMs": 3550,
+								"text": "this"
+							},
+							{
+								"startTimeMs": 3550,
+								"endTimeMs": 4030,
+								"text": "course"
+							},
+							{
+								"startTimeMs": 4030,
+								"endTimeMs": 4270,
+								"text": "is"
+							},
+							{
+								"startTimeMs": 4270,
+								"endTimeMs": 4750,
+								"text": "called"
+							},
+							{
+								"startTimeMs": 4990,
+								"endTimeMs": 5790,
+								"text": "Introduction"
+							},
+							{
+								"startTimeMs": 5790,
+								"endTimeMs": 5950,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 5950,
+								"endTimeMs": 6430,
+								"text": "Modern"
+							},
+							{
+								"startTimeMs": 6430,
+								"endTimeMs": 6710,
+								"text": "Machine"
+							},
+							{
+								"startTimeMs": 6710,
+								"endTimeMs": 7070,
+								"text": "Learning"
+							},
+							{
+								"startTimeMs": 7070,
+								"endTimeMs": 7230,
+								"text": "and"
+							},
+							{
+								"startTimeMs": 7230,
+								"endTimeMs": 8190,
+								"text": "Applications."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 8510,
+						"endTimeMs": 12830,
+						"text": "In this unit, we will focus on the keyword, machine learning.",
+						"confidence": 0.816,
+						"words": [
+							{
+								"startTimeMs": 8510,
+								"endTimeMs": 8750,
+								"text": "In"
+							},
+							{
+								"startTimeMs": 8750,
+								"endTimeMs": 8990,
+								"text": "this"
+							},
+							{
+								"startTimeMs": 8990,
+								"endTimeMs": 9550,
+								"text": "unit,"
+							},
+							{
+								"startTimeMs": 9790,
+								"endTimeMs": 10110,
+								"text": "we"
+							},
+							{
+								"startTimeMs": 10110,
+								"endTimeMs": 10350,
+								"text": "will"
+							},
+							{
+								"startTimeMs": 10350,
+								"endTimeMs": 10830,
+								"text": "focus"
+							},
+							{
+								"startTimeMs": 10830,
+								"endTimeMs": 10990,
+								"text": "on"
+							},
+							{
+								"startTimeMs": 10990,
+								"endTimeMs": 11150,
+								"text": "the"
+							},
+							{
+								"startTimeMs": 11150,
+								"endTimeMs": 11870,
+								"text": "keyword,"
+							},
+							{
+								"startTimeMs": 12030,
+								"endTimeMs": 12390,
+								"text": "machine"
+							},
+							{
+								"startTimeMs": 12390,
+								"endTimeMs": 12830,
+								"text": "learning."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 14670,
+						"endTimeMs": 17310,
+						"text": "Let's start with the definition of machine learning.",
+						"confidence": 0.816,
+						"words": [
+							{
+								"startTimeMs": 14670,
+								"endTimeMs": 14950,
+								"text": "Let's"
+							},
+							{
+								"startTimeMs": 14950,
+								"endTimeMs": 15470,
+								"text": "start"
+							},
+							{
+								"startTimeMs": 15470,
+								"endTimeMs": 15710,
+								"text": "with"
+							},
+							{
+								"startTimeMs": 15750,
+								"endTimeMs": 15870,
+								"text": "the"
+							},
+							{
+								"startTimeMs": 15870,
+								"endTimeMs": 16430,
+								"text": "definition"
+							},
+							{
+								"startTimeMs": 16430,
+								"endTimeMs": 16590,
+								"text": "of"
+							},
+							{
+								"startTimeMs": 16590,
+								"endTimeMs": 16910,
+								"text": "machine"
+							},
+							{
+								"startTimeMs": 16910,
+								"endTimeMs": 17310,
+								"text": "learning."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 17710,
+						"endTimeMs": 24430,
+						"text": "From historical or evolutional perspective, machine learning is a subfield of artificial intelligence.",
+						"confidence": 0.816,
+						"words": [
+							{
+								"startTimeMs": 17710,
+								"endTimeMs": 18030,
+								"text": "From"
+							},
+							{
+								"startTimeMs": 18030,
+								"endTimeMs": 18910,
+								"text": "historical"
+							},
+							{
+								"startTimeMs": 18910,
+								"endTimeMs": 19390,
+								"text": "or"
+							},
+							{
+								"startTimeMs": 19390,
+								"endTimeMs": 20030,
+								"text": "evolutional"
+							},
+							{
+								"startTimeMs": 20030,
+								"endTimeMs": 20750,
+								"text": "perspective,"
+							},
+							{
+								"startTimeMs": 21070,
+								"endTimeMs": 21390,
+								"text": "machine"
+							},
+							{
+								"startTimeMs": 21390,
+								"endTimeMs": 21790,
+								"text": "learning"
+							},
+							{
+								"startTimeMs": 21790,
+								"endTimeMs": 21950,
+								"text": "is"
+							},
+							{
+								"startTimeMs": 21950,
+								"endTimeMs": 22030,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 22030,
+								"endTimeMs": 22830,
+								"text": "subfield"
+							},
+							{
+								"startTimeMs": 22830,
+								"endTimeMs": 23150,
+								"text": "of"
+							},
+							{
+								"startTimeMs": 23150,
+								"endTimeMs": 23670,
+								"text": "artificial"
+							},
+							{
+								"startTimeMs": 23670,
+								"endTimeMs": 24430,
+								"text": "intelligence."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 24830,
+						"endTimeMs": 32190,
+						"text": "Artificial intelligence means we want to have computers to mimic human intelligence to accomplish tasks for us.",
+						"confidence": 0.87,
+						"words": [
+							{
+								"startTimeMs": 24830,
+								"endTimeMs": 25350,
+								"text": "Artificial"
+							},
+							{
+								"startTimeMs": 25350,
+								"endTimeMs": 26030,
+								"text": "intelligence"
+							},
+							{
+								"startTimeMs": 26030,
+								"endTimeMs": 26430,
+								"text": "means"
+							},
+							{
+								"startTimeMs": 26430,
+								"endTimeMs": 26590,
+								"text": "we"
+							},
+							{
+								"startTimeMs": 26590,
+								"endTimeMs": 27030,
+								"text": "want"
+							},
+							{
+								"startTimeMs": 27030,
+								"endTimeMs": 27230,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 27230,
+								"endTimeMs": 27470,
+								"text": "have"
+							},
+							{
+								"startTimeMs": 27470,
+								"endTimeMs": 28110,
+								"text": "computers"
+							},
+							{
+								"startTimeMs": 28110,
+								"endTimeMs": 28350,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 28350,
+								"endTimeMs": 28990,
+								"text": "mimic"
+							},
+							{
+								"startTimeMs": 28990,
+								"endTimeMs": 29350,
+								"text": "human"
+							},
+							{
+								"startTimeMs": 29350,
+								"endTimeMs": 29950,
+								"text": "intelligence"
+							},
+							{
+								"startTimeMs": 29950,
+								"endTimeMs": 30270,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 30350,
+								"endTimeMs": 30910,
+								"text": "accomplish"
+							},
+							{
+								"startTimeMs": 30910,
+								"endTimeMs": 31550,
+								"text": "tasks"
+							},
+							{
+								"startTimeMs": 31550,
+								"endTimeMs": 31790,
+								"text": "for"
+							},
+							{
+								"startTimeMs": 31790,
+								"endTimeMs": 32190,
+								"text": "us."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 33030,
+						"endTimeMs": 44030,
+						"text": "And over the past 10 years, machine learning has become a mainstream approach for artificial intelligence problems because of the rapid improvement in computational power.",
+						"confidence": 0.87,
+						"words": [
+							{
+								"startTimeMs": 33030,
+								"endTimeMs": 33190,
+								"text": "And"
+							},
+							{
+								"startTimeMs": 33190,
+								"endTimeMs": 33510,
+								"text": "over"
+							},
+							{
+								"startTimeMs": 33510,
+								"endTimeMs": 33630,
+								"text": "the"
+							},
+							{
+								"startTimeMs": 33630,
+								"endTimeMs": 34230,
+								"text": "past"
+							},
+							{
+								"startTimeMs": 34230,
+								"endTimeMs": 34430,
+								"text": "10"
+							},
+							{
+								"startTimeMs": 34430,
+								"endTimeMs": 34910,
+								"text": "years,"
+							},
+							{
+								"startTimeMs": 35150,
+								"endTimeMs": 35470,
+								"text": "machine"
+							},
+							{
+								"startTimeMs": 35470,
+								"endTimeMs": 35790,
+								"text": "learning"
+							},
+							{
+								"startTimeMs": 35790,
+								"endTimeMs": 36030,
+								"text": "has"
+							},
+							{
+								"startTimeMs": 36030,
+								"endTimeMs": 36430,
+								"text": "become"
+							},
+							{
+								"startTimeMs": 37070,
+								"endTimeMs": 37110,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 37110,
+								"endTimeMs": 37590,
+								"text": "mainstream"
+							},
+							{
+								"startTimeMs": 37590,
+								"endTimeMs": 38270,
+								"text": "approach"
+							},
+							{
+								"startTimeMs": 38270,
+								"endTimeMs": 38750,
+								"text": "for"
+							},
+							{
+								"startTimeMs": 39150,
+								"endTimeMs": 39590,
+								"text": "artificial"
+							},
+							{
+								"startTimeMs": 39590,
+								"endTimeMs": 40190,
+								"text": "intelligence"
+							},
+							{
+								"startTimeMs": 40190,
+								"endTimeMs": 40830,
+								"text": "problems"
+							},
+							{
+								"startTimeMs": 41070,
+								"endTimeMs": 41470,
+								"text": "because"
+							},
+							{
+								"startTimeMs": 41470,
+								"endTimeMs": 41590,
+								"text": "of"
+							},
+							{
+								"startTimeMs": 41590,
+								"endTimeMs": 41670,
+								"text": "the"
+							},
+							{
+								"startTimeMs": 41670,
+								"endTimeMs": 42030,
+								"text": "rapid"
+							},
+							{
+								"startTimeMs": 42030,
+								"endTimeMs": 42670,
+								"text": "improvement"
+							},
+							{
+								"startTimeMs": 42670,
+								"endTimeMs": 42830,
+								"text": "in"
+							},
+							{
+								"startTimeMs": 42830,
+								"endTimeMs": 43550,
+								"text": "computational"
+							},
+							{
+								"startTimeMs": 43550,
+								"endTimeMs": 44030,
+								"text": "power."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 44910,
+						"endTimeMs": 50350,
+						"text": "From terminology perspective, machine learning means a set of algorithms or",
+						"confidence": 0.87,
+						"words": [
+							{
+								"startTimeMs": 44910,
+								"endTimeMs": 45230,
+								"text": "From"
+							},
+							{
+								"startTimeMs": 45230,
+								"endTimeMs": 45750,
+								"text": "terminology"
+							},
+							{
+								"startTimeMs": 45790,
+								"endTimeMs": 46510,
+								"text": "perspective,"
+							},
+							{
+								"startTimeMs": 47230,
+								"endTimeMs": 47510,
+								"text": "machine"
+							},
+							{
+								"startTimeMs": 47510,
+								"endTimeMs": 47950,
+								"text": "learning"
+							},
+							{
+								"startTimeMs": 47950,
+								"endTimeMs": 48510,
+								"text": "means"
+							},
+							{
+								"startTimeMs": 48510,
+								"endTimeMs": 48590,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 48590,
+								"endTimeMs": 48990,
+								"text": "set"
+							},
+							{
+								"startTimeMs": 48990,
+								"endTimeMs": 49070,
+								"text": "of"
+							},
+							{
+								"startTimeMs": 49070,
+								"endTimeMs": 49870,
+								"text": "algorithms"
+							},
+							{
+								"startTimeMs": 49870,
+								"endTimeMs": 50350,
+								"text": "or"
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 51390,
+						"endTimeMs": 57230,
+						"text": "methods that will empower computers to perform tasks without writing single rules.",
+						"confidence": 0.899,
+						"words": [
+							{
+								"startTimeMs": 51390,
+								"endTimeMs": 52030,
+								"text": "methods"
+							},
+							{
+								"startTimeMs": 52270,
+								"endTimeMs": 52510,
+								"text": "that"
+							},
+							{
+								"startTimeMs": 52510,
+								"endTimeMs": 52750,
+								"text": "will"
+							},
+							{
+								"startTimeMs": 52750,
+								"endTimeMs": 53310,
+								"text": "empower"
+							},
+							{
+								"startTimeMs": 53310,
+								"endTimeMs": 53950,
+								"text": "computers"
+							},
+							{
+								"startTimeMs": 53950,
+								"endTimeMs": 54190,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 54190,
+								"endTimeMs": 54590,
+								"text": "perform"
+							},
+							{
+								"startTimeMs": 54590,
+								"endTimeMs": 55070,
+								"text": "tasks"
+							},
+							{
+								"startTimeMs": 55070,
+								"endTimeMs": 55630,
+								"text": "without"
+							},
+							{
+								"startTimeMs": 55630,
+								"endTimeMs": 56190,
+								"text": "writing"
+							},
+							{
+								"startTimeMs": 56350,
+								"endTimeMs": 56710,
+								"text": "single"
+							},
+							{
+								"startTimeMs": 56710,
+								"endTimeMs": 57230,
+								"text": "rules."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 57630,
+						"endTimeMs": 67470,
+						"text": "For example, if you want to teach a computer to distinguish dogs and cats, you will not want to write something like, oh, most dogs' ears are round and so on.",
+						"confidence": 0.899,
+						"words": [
+							{
+								"startTimeMs": 57630,
+								"endTimeMs": 57750,
+								"text": "For"
+							},
+							{
+								"startTimeMs": 57750,
+								"endTimeMs": 58270,
+								"text": "example,"
+							},
+							{
+								"startTimeMs": 58910,
+								"endTimeMs": 59070,
+								"text": "if"
+							},
+							{
+								"startTimeMs": 59070,
+								"endTimeMs": 59190,
+								"text": "you"
+							},
+							{
+								"startTimeMs": 59190,
+								"endTimeMs": 59430,
+								"text": "want"
+							},
+							{
+								"startTimeMs": 59430,
+								"endTimeMs": 59510,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 59510,
+								"endTimeMs": 59950,
+								"text": "teach"
+							},
+							{
+								"startTimeMs": 59950,
+								"endTimeMs": 60030,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 60430,
+								"endTimeMs": 60990,
+								"text": "computer"
+							},
+							{
+								"startTimeMs": 60990,
+								"endTimeMs": 61150,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 61150,
+								"endTimeMs": 61670,
+								"text": "distinguish"
+							},
+							{
+								"startTimeMs": 61710,
+								"endTimeMs": 62030,
+								"text": "dogs"
+							},
+							{
+								"startTimeMs": 62030,
+								"endTimeMs": 62190,
+								"text": "and"
+							},
+							{
+								"startTimeMs": 62190,
+								"endTimeMs": 62670,
+								"text": "cats,"
+							},
+							{
+								"startTimeMs": 62990,
+								"endTimeMs": 63150,
+								"text": "you"
+							},
+							{
+								"startTimeMs": 63150,
+								"endTimeMs": 63270,
+								"text": "will"
+							},
+							{
+								"startTimeMs": 63270,
+								"endTimeMs": 63470,
+								"text": "not"
+							},
+							{
+								"startTimeMs": 63470,
+								"endTimeMs": 63750,
+								"text": "want"
+							},
+							{
+								"startTimeMs": 63750,
+								"endTimeMs": 63830,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 63830,
+								"endTimeMs": 64110,
+								"text": "write"
+							},
+							{
+								"startTimeMs": 64110,
+								"endTimeMs": 64510,
+								"text": "something"
+							},
+							{
+								"startTimeMs": 64510,
+								"endTimeMs": 64830,
+								"text": "like,"
+							},
+							{
+								"startTimeMs": 64830,
+								"endTimeMs": 65150,
+								"text": "oh,"
+							},
+							{
+								"startTimeMs": 65150,
+								"endTimeMs": 65590,
+								"text": "most"
+							},
+							{
+								"startTimeMs": 65590,
+								"endTimeMs": 65870,
+								"text": "dogs'"
+							},
+							{
+								"startTimeMs": 65870,
+								"endTimeMs": 66190,
+								"text": "ears"
+							},
+							{
+								"startTimeMs": 66270,
+								"endTimeMs": 66470,
+								"text": "are"
+							},
+							{
+								"startTimeMs": 66470,
+								"endTimeMs": 66750,
+								"text": "round"
+							},
+							{
+								"startTimeMs": 66750,
+								"endTimeMs": 66990,
+								"text": "and"
+							},
+							{
+								"startTimeMs": 66990,
+								"endTimeMs": 67150,
+								"text": "so"
+							},
+							{
+								"startTimeMs": 67150,
+								"endTimeMs": 67470,
+								"text": "on."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 67870,
+						"endTimeMs": 74670,
+						"text": "Instead, you might want to collect a lot of pictures of dogs and cats, fit them into a machine learning training pipeline.",
+						"confidence": 0.899,
+						"words": [
+							{
+								"startTimeMs": 67870,
+								"endTimeMs": 68430,
+								"text": "Instead,"
+							},
+							{
+								"startTimeMs": 68430,
+								"endTimeMs": 68630,
+								"text": "you"
+							},
+							{
+								"startTimeMs": 68670,
+								"endTimeMs": 68870,
+								"text": "might"
+							},
+							{
+								"startTimeMs": 68870,
+								"endTimeMs": 69070,
+								"text": "want"
+							},
+							{
+								"startTimeMs": 69070,
+								"endTimeMs": 69150,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 69150,
+								"endTimeMs": 69510,
+								"text": "collect"
+							},
+							{
+								"startTimeMs": 69510,
+								"endTimeMs": 69550,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 69550,
+								"endTimeMs": 69710,
+								"text": "lot"
+							},
+							{
+								"startTimeMs": 69710,
+								"endTimeMs": 69790,
+								"text": "of"
+							},
+							{
+								"startTimeMs": 69790,
+								"endTimeMs": 70310,
+								"text": "pictures"
+							},
+							{
+								"startTimeMs": 70310,
+								"endTimeMs": 70430,
+								"text": "of"
+							},
+							{
+								"startTimeMs": 70510,
+								"endTimeMs": 70950,
+								"text": "dogs"
+							},
+							{
+								"startTimeMs": 70950,
+								"endTimeMs": 71150,
+								"text": "and"
+							},
+							{
+								"startTimeMs": 71150,
+								"endTimeMs": 71630,
+								"text": "cats,"
+							},
+							{
+								"startTimeMs": 72110,
+								"endTimeMs": 72310,
+								"text": "fit"
+							},
+							{
+								"startTimeMs": 72310,
+								"endTimeMs": 72630,
+								"text": "them"
+							},
+							{
+								"startTimeMs": 72630,
+								"endTimeMs": 73030,
+								"text": "into"
+							},
+							{
+								"startTimeMs": 73030,
+								"endTimeMs": 73070,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 73070,
+								"endTimeMs": 73470,
+								"text": "machine"
+							},
+							{
+								"startTimeMs": 73470,
+								"endTimeMs": 73710,
+								"text": "learning"
+							},
+							{
+								"startTimeMs": 73710,
+								"endTimeMs": 74030,
+								"text": "training"
+							},
+							{
+								"startTimeMs": 74030,
+								"endTimeMs": 74670,
+								"text": "pipeline."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 74990,
+						"endTimeMs": 79230,
+						"text": "This pipeline will identify underlying patterns and build a model.",
+						"confidence": 0.899,
+						"words": [
+							{
+								"startTimeMs": 74990,
+								"endTimeMs": 75230,
+								"text": "This"
+							},
+							{
+								"startTimeMs": 75230,
+								"endTimeMs": 75830,
+								"text": "pipeline"
+							},
+							{
+								"startTimeMs": 75830,
+								"endTimeMs": 76070,
+								"text": "will"
+							},
+							{
+								"startTimeMs": 76190,
+								"endTimeMs": 76910,
+								"text": "identify"
+							},
+							{
+								"startTimeMs": 76910,
+								"endTimeMs": 77390,
+								"text": "underlying"
+							},
+							{
+								"startTimeMs": 77390,
+								"endTimeMs": 77950,
+								"text": "patterns"
+							},
+							{
+								"startTimeMs": 77950,
+								"endTimeMs": 78190,
+								"text": "and"
+							},
+							{
+								"startTimeMs": 78190,
+								"endTimeMs": 78510,
+								"text": "build"
+							},
+							{
+								"startTimeMs": 78510,
+								"endTimeMs": 78590,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 78590,
+								"endTimeMs": 79230,
+								"text": "model."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 79790,
+						"endTimeMs": 90990,
+						"text": "Then, during the testing time, you can fit a model as well as an unseen new image to ask this model whether this image belongs to a cat or dog.",
+						"confidence": 0.828,
+						"words": [
+							{
+								"startTimeMs": 79790,
+								"endTimeMs": 80190,
+								"text": "Then,"
+							},
+							{
+								"startTimeMs": 80190,
+								"endTimeMs": 80550,
+								"text": "during"
+							},
+							{
+								"startTimeMs": 80550,
+								"endTimeMs": 80670,
+								"text": "the"
+							},
+							{
+								"startTimeMs": 80670,
+								"endTimeMs": 81070,
+								"text": "testing"
+							},
+							{
+								"startTimeMs": 81070,
+								"endTimeMs": 81390,
+								"text": "time,"
+							},
+							{
+								"startTimeMs": 81710,
+								"endTimeMs": 81870,
+								"text": "you"
+							},
+							{
+								"startTimeMs": 81870,
+								"endTimeMs": 82190,
+								"text": "can"
+							},
+							{
+								"startTimeMs": 82190,
+								"endTimeMs": 82590,
+								"text": "fit"
+							},
+							{
+								"startTimeMs": 82830,
+								"endTimeMs": 82910,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 83310,
+								"endTimeMs": 84070,
+								"text": "model"
+							},
+							{
+								"startTimeMs": 84150,
+								"endTimeMs": 84270,
+								"text": "as"
+							},
+							{
+								"startTimeMs": 84270,
+								"endTimeMs": 84470,
+								"text": "well"
+							},
+							{
+								"startTimeMs": 84550,
+								"endTimeMs": 84750,
+								"text": "as"
+							},
+							{
+								"startTimeMs": 85430,
+								"endTimeMs": 85510,
+								"text": "an"
+							},
+							{
+								"startTimeMs": 85510,
+								"endTimeMs": 85950,
+								"text": "unseen"
+							},
+							{
+								"startTimeMs": 85950,
+								"endTimeMs": 86030,
+								"text": "new"
+							},
+							{
+								"startTimeMs": 86030,
+								"endTimeMs": 86430,
+								"text": "image"
+							},
+							{
+								"startTimeMs": 86830,
+								"endTimeMs": 87030,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 87070,
+								"endTimeMs": 87390,
+								"text": "ask"
+							},
+							{
+								"startTimeMs": 87430,
+								"endTimeMs": 87630,
+								"text": "this"
+							},
+							{
+								"startTimeMs": 87630,
+								"endTimeMs": 88110,
+								"text": "model"
+							},
+							{
+								"startTimeMs": 88110,
+								"endTimeMs": 88510,
+								"text": "whether"
+							},
+							{
+								"startTimeMs": 88510,
+								"endTimeMs": 88670,
+								"text": "this"
+							},
+							{
+								"startTimeMs": 88670,
+								"endTimeMs": 88990,
+								"text": "image"
+							},
+							{
+								"startTimeMs": 89070,
+								"endTimeMs": 89470,
+								"text": "belongs"
+							},
+							{
+								"startTimeMs": 89470,
+								"endTimeMs": 89790,
+								"text": "to"
+							},
+							{
+								"startTimeMs": 89950,
+								"endTimeMs": 89990,
+								"text": "a"
+							},
+							{
+								"startTimeMs": 89990,
+								"endTimeMs": 90350,
+								"text": "cat"
+							},
+							{
+								"startTimeMs": 90350,
+								"endTimeMs": 90590,
+								"text": "or"
+							},
+							{
+								"startTimeMs": 90590,
+								"endTimeMs": 90990,
+								"text": "dog."
+							}
+						],
+						"locale": "en-US"
+					},
+					{
+						"speaker": "Speaker 1",
+						"startTimeMs": 91710,
+						"endTimeMs": 94510,
+						"text": "So that's the general idea about machine learning.",
+						"confidence": 0.828,
+						"words": [
+							{
+								"startTimeMs": 91710,
+								"endTimeMs": 91910,
+								"text": "So"
+							},
+							{
+								"startTimeMs": 91910,
+								"endTimeMs": 92190,
+								"text": "that's"
+							},
+							{
+								"startTimeMs": 92190,
+								"endTimeMs": 92430,
+								"text": "the"
+							},
+							{
+								"startTimeMs": 92670,
+								"endTimeMs": 93110,
+								"text": "general"
+							},
+							{
+								"startTimeMs": 93110,
+								"endTimeMs": 93510,
+								"text": "idea"
+							},
+							{
+								"startTimeMs": 93510,
+								"endTimeMs": 93710,
+								"text": "about"
+							},
+							{
+								"startTimeMs": 93710,
+								"endTimeMs": 94030,
+								"text": "machine"
+							},
+							{
+								"startTimeMs": 94030,
+								"endTimeMs": 94510,
+								"text": "learning."
+							}
+						],
+						"locale": "en-US"
+					}
+				],
+				"mimeType": "video/mp4"
+			}
+		]
+	},
+	"usage": {
+		"videoHours": 0.027,
+		"contextualizationTokens": 26944,
+		"tokens": {
+			"gpt-4.1-mini-input": 21963,
+			"gpt-4.1-mini-output": 442
+		}
+	}
+}
