@@ -11,7 +11,7 @@
 2. Safety practices related to computer usage, spam detection and privacy protection.
 - Include a quick quiz about safety.
 
-3. Real product demonstration: use Azure Content Understanding and video analysis features to motivate students. 
+3. Real product demonstration: use *Azure Content Understanding* and video analysis features to motivate students. 
 - Review content in sample_video_*.json with students.
 - Invite students to guess what has been done to generate the summary field.
 
@@ -30,3 +30,7 @@
 5. Python environment setup.
 - Use setup/README for students to work on it
 - Encourage students to submit Pull Requests to add trouble shooting or programming tips.
+
+## Materials
+1. Azure Content Understanding official document: [link](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/) students can read to learn concepts of real software products.
+2. Git operations: [link](https://www.geeksforgeeks.org/git/what-is-collaboration-in-git/) students should review basic operations for working with others in the same repository.

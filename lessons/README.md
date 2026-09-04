@@ -1,12 +1,12 @@
 # Title of Course: Introduction to Modern Machine Learning and Applications.
 
-# Required courses: pre-calculus and introduction to programming
+## Required courses: pre-calculus and introduction to programming
 
-# Leadership Components
+## Leadership Components
 - Skills directly related to 21st leadership/communication and collaboration are covered in Unit 6,Unit 9 and Unit 11.
 - Through the whole course, I will foster an environment to encourage everyone to contribute to other students' growth through peer reviews and classroom discussions. 
 
-# Course Level Learning Goals
+## Course Level Learning Goals
 - (P0) Students can describe how machine learning solutions can be applied to real world problems.
 - (P0) Students can list out production consideration and constraints when deploying machine learning models.
 - (P0) Students can identify various roles in software development teams and how they contribute to successful products.
@@ -15,7 +15,7 @@
 - Students can describe how gradient descent is used to fit parameters of models against many data samples and implement basic models, training and inference flows with Pytorch.
 - Students can explore latest modeling and programming papers to learn new ideas.
 
-# Course Units
+## Course Units
 
 | Unit Number | Unit Title      | Lesson Content | Lesson Hours |
 |:------------|:--------------- |:---------------|:-------------|
