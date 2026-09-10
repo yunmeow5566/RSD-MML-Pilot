@@ -22,3 +22,6 @@ I have adopted the T.R.I.C.K. education philosophy (Trust, Respect, Independence
 - Participation: attendance, classroom behaviors, in-class assignments (in Github or papers), peer review and discussion. 
 - Quiz: there will be a few in-class quizzes related to safety practices. 
 - Leadership: including but not limited to: (1) participate in TSA or other organizations, (2) contribute to course content through constructive feedback and/or Github issues or pull requests to the course repository (outside of course assignments), (3) volunteer to be a 'Github' master or 'VSCode' master to support your peers. 
+
+
+## My suggestions for Professional Developer
