@@ -34,3 +34,7 @@
 ## Materials
 1. Azure Content Understanding official document: [link](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/) students can read to learn concepts of real software products.
 2. Git operations: [link](https://www.geeksforgeeks.org/git/what-is-collaboration-in-git/) students should review basic operations for working with others in the same repository.
+
+## Exercises
+1. Review Peers' past projects and provide two constructive and actionable suggestions.
+2. Fork past projects as private repositories, invite peers as collaborators to submit Pull Requests and create issues.

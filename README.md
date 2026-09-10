@@ -22,3 +22,17 @@ I have adopted the T.R.I.C.K. education philosophy (Trust, Respect, Independence
 - Participation: attendance, classroom behaviors, in-class assignments (in Github or papers), peer review and discussion. 
 - Quiz: there will be a few in-class quizzes related to safety practices. 
 - Leadership: including but not limited to: (1) participate in TSA or other organizations, (2) contribute to course content through constructive feedback and/or Github issues or pull requests to the course repository (outside of course assignments), (3) volunteer to be a 'Github' master or 'VSCode' master to support your peers. 
+
+
+## My Suggestions for Professional Developer (to Be)
+My top suggestion has been **do not just do what you are assigned to do** for years.
+What I mean is: while working on your assigned tasks, be curious about *why* and *how* your work is connected with others.
+Some questions you can ask mentors, coworkers, or yourself include: what does this task bring to our team, our product, or our customers?
+Once you become more senior, this question often evolves into: “What do we want to enable our users with this feature?”
+
+Another subtle habit is reading other people’s pull requests (and documents) regularly, even if you are not working on that repository or project.
+You will learn different components of your product, and you will see how people give suggestions during code reviews.
+You might find it hard to fully understand the change, which is expected and good for your growth, because:
+- Professional developers often work in large code bases and need to jump into unfamiliar areas to fix issues.
+- You might reflect on your own pull requests and learn how to make your changes easier to review.
+- You might learn something about design patterns and technical constraints outside your own area.
