@@ -28,6 +28,20 @@ We can also mention roles like:
 - Customer support (engineer)
 - Legal/law/compliance
 
+## Server Components
+We can start with these three:
+- Server front-end: Handles HTTP requests, routing, authentication, static assets, API endpoints.
+- Server back-end: Business logic, data processing, orchestration, compose response content.
+- ML Model Inference Module: Model loading, inference and prediction.
+
+We can add a few concepts:
+- Telemetry/logging: monitor product behaviors and users' behaviors
+- Authentication: tokens and permissions to access resources.
+- Data storage: users' data, model data, logging data.
+- API Gateway/Queue/scalability: Traffic management, load balancing, asynchronous processing
+
+We can also talk about product releases and model life cycle/versioning.
+
 ## Assignment
 Given an existing program or application that currently runs on a single machine, convert it into an online version using a client–server architecture. Define the major server‑side modules, including the server front‑end, server back‑end, and the ML model inference component.
 
