@@ -3,7 +3,7 @@
 This is a student-facing repository for a high school computer science course.
 
 - RSD stands for Riverview School District, located in Duvall, WA.
-
+- my district email address is: daiy-sub@rsd407.org
 - MML is a brief alias for a course name, Introduction for Modern Machline Learning and Applications.（It might be updated to something including Python) 
 
 The primary programming language in this course and repository will be Python.
