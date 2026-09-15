@@ -1,6 +1,9 @@
 # Course Unit: System Design
 If we start a new school year with groups, we might talk about roles earlier.
 
+## Teaching notes:
+- We might combine this module with unit06 and introduce JSON content together.
+
 ## Goals:
 - Students can understand various roles and responsibilities in modern software development teams.
 - **Students can respect different roles' expertise and learn to work collaborately.**
@@ -18,3 +21,30 @@ For students working on machine learning projects, we might adjust the roles to:
 - Service/Infrastructure developer
 - Runtime developer
 - Data scientist
+
+We can also mention roles like:
+- UX designer
+- Marketing
+- Customer support (engineer)
+- Legal/law/compliance
+
+## Server Components
+We can start with these three:
+- Server front-end: Handles HTTP requests, routing, authentication, static assets, API endpoints.
+- Server back-end: Business logic, data processing, orchestration, compose response content.
+- ML Model Inference Module: Model loading, inference and prediction.
+
+We can add a few concepts:
+- Telemetry/logging: monitor product behaviors and users' behaviors
+- Authentication: tokens and permissions to access resources.
+- Data storage: users' data, model data, logging data.
+- API Gateway/Queue/scalability: Traffic management, load balancing, asynchronous processing
+
+We can also talk about product releases and model life cycle/versioning.
+
+## Assignment
+Given an existing program or application that currently runs on a single machine, convert it into an online version using a client–server architecture. Define the major server‑side modules, including the server front‑end, server back‑end, and the ML model inference component.
+
+Based on these roles, describe how a user action flows from the client to each server component, and explain what each component does to generate a response to that user action.
+
+If combined with unit06, define request JSON content sent from the client side and the corresponding output JSON content from the server side for the action above.
