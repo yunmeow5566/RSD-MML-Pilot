@@ -6,6 +6,8 @@
 3. Students can propose proper modeling for real world problems and apply appropriate metrics.
 4. Students can describe key concepts for advanced problems like self-supervised learning. 
 5. Students can describe how ML models contribute to real world software products and how to manage production models (model and product life cycle)
+6. Students understand how critical data is for ML models.
+7. Students can perform basic evaluation and error analysis to assess model qualities.
 
 ## ML problems
 - Supervised, Unsupervised Learning and self-supervised learning
@@ -15,5 +17,11 @@
 ## Evaluation and Metrics
 - F1 score, precision, recall, accuracy
 
+## Assignments
+This module will have two assignments:
+1. The first assignment is modeling: students need to identify one supervised and one unsupervised scenarios from real world experiences and list out model definitions and required data.
+2. The second assignment is evaluation: students will be given an existing ML model (or students can find one) and perform:
+- testing data collection
+- evaluation and error analysis.
 ## Materials
 1. F1, Precision and Recall: [link1](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html) and [link2](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
