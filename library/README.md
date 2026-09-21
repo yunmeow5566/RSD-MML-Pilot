@@ -32,4 +32,6 @@ Alternatively, you can add changed files by their names: `git add <path to files
 `git push` to move them to GitHub. Notice that for the first time, you will need to type
 `git push origin <branch name>` to specify the branch name. 
 
+**Note** you can run `git config --global push.autoSetupRemote true` once, then `git push` will automatically create a new origin branch based on your branch name.
+
 We will add more tips when we need to deal with merge conflicts.
