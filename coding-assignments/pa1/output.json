@@ -1,0 +1,13 @@
+{
+    "metrics": {
+        "accuracy": 1.0
+    },
+    "results": [
+        {
+            "case_filename": "example01.jpg",
+            "groundtruth": "Thank you!",
+            "predicted": "Thank you!",
+            "correct": true
+        }
+    ]
+}

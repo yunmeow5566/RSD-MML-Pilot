@@ -1,0 +1,5 @@
+[
+    {"case_filename": "example01.jpg", "groundtruth": "Thank you!"},
+    {"case_filename": "example01.jpg", "groundtruth": "Thank you!"},
+    {"case_filename": "example01.jpg", "groundtruth": "Thank you!"}
+]
