@@ -17,9 +17,11 @@
 
 ## Discussion Topics
 - What does intelligence mean?
+- How do you evaluate/judge the quality of answers from LLM?
 
 ## Evaluation and Metrics
 - F1 score, precision, recall, accuracy
+- How to evaluate confidence scores?
 
 ## Assignments
 This module will have two assignments:
