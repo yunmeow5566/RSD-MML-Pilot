@@ -1,0 +1,124 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2026-09-28T19:27:35Z",
+	"lastUpdatedDateTime": "2026-09-28T19:27:36Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "prebuilt-read",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "thank You!",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.2353000044822693,
+				"width": 1180,
+				"height": 362,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "thank",
+						"polygon": [
+							258,
+							128,
+							558,
+							137,
+							551,
+							264,
+							252,
+							256
+						],
+						"confidence": 0.918,
+						"span": {
+							"offset": 0,
+							"length": 5
+						}
+					},
+					{
+						"content": "You!",
+						"polygon": [
+							811,
+							130,
+							1105,
+							103,
+							1105,
+							273,
+							803,
+							270
+						],
+						"confidence": 0.82,
+						"span": {
+							"offset": 6,
+							"length": 4
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "thank You!",
+						"polygon": [
+							252,
+							108,
+							1104,
+							102,
+							1105,
+							272,
+							252,
+							273
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 10
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 10
+					}
+				]
+			}
+		],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							251,
+							107,
+							1104,
+							102,
+							1105,
+							272,
+							252,
+							277
+						]
+					}
+				],
+				"content": "thank You!"
+			}
+		],
+		"styles": [
+			{
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 10
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"contentFormat": "text"
+	}
+}
