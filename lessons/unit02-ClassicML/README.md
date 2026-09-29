@@ -22,12 +22,12 @@
 ## Evaluation and Metrics
 - Classification tasks: F1 score, Precision, Recall, Accuracy
 - Regression tasks: Mean Squared Error, Mean Absolute Error
-- Clustering: Silhouette Score
-- Dimension reduction: Reconstruction error, Distance preservation
+- Clustering: Silhouette Score (or something similar)
+- Dimension reduction: Reconstruction error, Distance preservation (correlation)
 - A complicated scenario: an E2E OCR behavior: detection(pixel-based v.s. coordinate-based), recognition (sequence modeling from region -> sequence of characters -> words), confidence scores. How to evaluate each module?
 
 
-## Assignments
+## Assignments (or let's call it weekly sync-up)
 This module will have two assignments:
 1. The first assignment is modeling: students need to identify one supervised and one unsupervised scenarios from real world experiences and list out model definitions (input and output format, with real, examples)as well as required data samples with at least 10 features.
 2. The second assignment is evaluation: students will be given an existing ML model (or students can find one) and perform:
