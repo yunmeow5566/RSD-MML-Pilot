@@ -1,3 +1,9 @@
 [
-    {"case_filename": "example01.jpg", "groundtruth": "Thank You!"}
+
+    {"case_filename": "example01.jpg", "groundtruth": "Thank You!"},
+    {"case_filename": "testcase1.jpg", "groundtruth": "Hello"},
+    {"case_filename": "testcase2.jpg", "groundtruth": "goodbye"},
+    {"case_filename": "testcase3.jpg", "groundtruth": "awesome"},
+    {"case_filename": "testcase4.jpg", "groundtruth": "Cooper Pearson"},
+    {"case_filename": "testcase5.jpg", "groundtruth": "Solidworks"}
 ]
