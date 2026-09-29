@@ -17,5 +17,5 @@ reader = get_reader()
 
 script_path = Path(__file__).resolve()
     
-result = get_text_from_image(str(script_path.parent / 'input' / 'example001.jpg'), reader)
+result = get_text_from_image(str(script_path.parent / 'input' / 'example01.jpg'), reader)
 print(result)
