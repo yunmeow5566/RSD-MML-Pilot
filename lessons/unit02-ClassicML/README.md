@@ -17,11 +17,17 @@
 
 ## Discussion Topics
 - What does intelligence mean?
+- How do you evaluate/judge the quality of answers from LLM?
 
 ## Evaluation and Metrics
-- F1 score, precision, recall, accuracy
+- Classification tasks: F1 score, Precision, Recall, Accuracy
+- Regression tasks: Mean Squared Error, Mean Absolute Error
+- Clustering: Silhouette Score (or something similar)
+- Dimension reduction: Reconstruction error, Distance preservation (correlation)
+- A complicated scenario: an E2E OCR behavior: detection(pixel-based v.s. coordinate-based), recognition (sequence modeling from region -> sequence of characters -> words), confidence scores. How to evaluate each module?
 
-## Assignments
+
+## Assignments (or let's call it weekly sync-up)
 This module will have two assignments:
 1. The first assignment is modeling: students need to identify one supervised and one unsupervised scenarios from real world experiences and list out model definitions (input and output format, with real, examples)as well as required data samples with at least 10 features.
 2. The second assignment is evaluation: students will be given an existing ML model (or students can find one) and perform:
@@ -29,3 +35,4 @@ This module will have two assignments:
 - evaluation and error analysis.
 ## Materials
 1. F1, Precision and Recall: [link1](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html) and [link2](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
+2. OCR papers: [evaluation](https://www.sciencedirect.com/science/article/pii/S0306457326004383), [e2e model](https://arxiv.org/pdf/1507.05717), [FOTS](https://arxiv.org/abs/1801.01671), [Donut](https://arxiv.org/abs/2111.15664)
