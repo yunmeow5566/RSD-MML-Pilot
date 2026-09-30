@@ -61,7 +61,9 @@ Alternatively, you can use merge.
 ### Situation 2: You accidentally put your feature commits on main
 First all, you should not, and cannot push these changes to *main* directly.
 You will need to create a branch from your local repository first by typing `git checkout -b <a new branch name>`.
-Then you have these feature commits in your friendly branch. Then checkout *main*. If you try to pull directly, you might see complaints.
-What you can do is to clean up your local *main* first.
-Then you can type `git fetch origin` and `git reset --hard origin/main` to match your local *main* to the upstream/shared repository.
 
+Now you have these feature commits in your friendly local feature branch. Then checkout *main*. If you try to pull directly, you might see complaints.
+What you need to do is to clean up your local *main*.
+You can type `git fetch origin` and `git reset --hard origin/main` to match your local *main* to the upstream/shared repository.
+
+Once your local main is the same as the upstream version, you can follow steps in **Situation 1** to resolve conflicts.
