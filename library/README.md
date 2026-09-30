@@ -34,4 +34,34 @@ Alternatively, you can add changed files by their names: `git add <path to files
 
 **Note** you can run `git config --global push.autoSetupRemote true` once, then `git push` will automatically create a new origin branch based on your branch name.
 
-We will add more tips when we need to deal with merge conflicts.
+## Git Collaboration
+When multiple developers work on the same repository, they will need to deal with merge conflicts.
+Why does merge conflict happen? Usuaully there is a *main* branch where all team members need to submit Pull Requests to make changes.
+Consider this is a commit trace:
+	> --A--B--C
+
+Developer A branched out from commit A, and made changes on a few files and submitted a pull request.
+Meanwhile, another Developer B merged his pull request to the main branch, which touched files affected by A's pull request.
+Then Developer A needs to take B's changes (commit B) to his local, resolve conflicts and update his branch/pull request.
+### Situation 1: All of your commits are on another (feature) branch.
+You will hit this situation if you always branch out from *main* before making commits.
+For this case, you will firstly go back to the *main* branch (type `git checkout main`) and then pull changes (type `git pull`).
+Then you can switch to your feature branch again (type `git checkout <your branch>`).
+
+Now you could do either `git rebase main` or `git merge main`. I personally prefer **rebase** as it keeps commit history clean.
+Once you type `git rebase main` in your feature branch, you will see git is trying to resolve conflicts for you, but some files will be marked as "CONFLICT" in your git bash. 
+
+For most of the situations, you will need to visit each CONFLICT file, review differences between the two versions and edit.
+Once you are done with one file, type `git add <file path>`, and keep working on other files.
+
+After you are done, type `git rebase --continue`, you might be prompted to edit a commit message, just exit the editing mode.
+If you have too many commits on your feature branch, you might want to do `git rebase -i HEAD~<number of commits you want to work on>`, and squash commits before rebase to *main*.
+Alternatively, you can use merge.
+
+### Situation 2: You accidentally put your feature commits on main
+First all, you should not, and cannot push these changes to *main* directly.
+You will need to create a branch from your local repository first by typing `git checkout -b <a new branch name>`.
+Then you have these feature commits in your friendly branch. Then checkout *main*. If you try to pull directly, you might see complaints.
+What you can do is to clean up your local *main* first.
+Then you can type `git fetch origin` and `git reset --hard origin/main` to match your local *main* to the upstream/shared repository.
+
