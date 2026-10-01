@@ -5,8 +5,8 @@
     "results": [
         {
             "case_filename": "example01.jpg",
-            "groundtruth": "Thank you!",
-            "predicted": "Thank you!",
+            "groundtruth": "Thank You!",
+            "predicted": "Thank You!",
             "correct": true
         }
     ]
