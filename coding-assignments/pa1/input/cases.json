@@ -1,5 +1,4 @@
 [
-
     {"case_filename": "example01.jpg", "groundtruth": "Thank You!"},
     {"case_filename": "testcase1.jpg", "groundtruth": "Hello"},
     {"case_filename": "testcase2.jpg", "groundtruth": "goodbye"},
@@ -12,4 +11,21 @@
     {"case_filename": "TestImage04.jpg", "groundtruth": "Text"},
     {"case_filename": "TestImage05.jpg", "groundtruth": "Words Sample"},
     {"case_filename": "TestImage06.jpg", "groundtruth": "Image"}
+    {"case_filename": "example001.jpg", "groundtruth": "Hello"},
+    {"case_filename": "example002.jpg", "groundtruth": "World"},
+    {"case_filename": "example003.jpg", "groundtruth": "The"},
+    {"case_filename": "example004.jpg", "groundtruth": "quick"},
+    {"case_filename": "example005.jpg", "groundtruth": "brown"},
+    {"case_filename": "example006.jpg", "groundtruth": "fox"},
+    {"case_filename": "example007.jpg", "groundtruth": "jumps"},
+    {"case_filename": "example008.jpg", "groundtruth": "over"},
+    {"case_filename": "example009.jpg", "groundtruth": "the"},
+    {"case_filename": "example010.jpg", "groundtruth": "lazy"},
+    {"case_filename": "example011.jpg", "groundtruth": "dog"},
+    {"case_filename": "example012.jpg", "groundtruth": "ABCDEFGHIJK"},
+    {"case_filename": "example013.jpg", "groundtruth": "LMNOPQRSTU"},
+    {"case_filename": "example014.jpg", "groundtruth": "VWXYZabcd"},
+    {"case_filename": "example015.jpg", "groundtruth": "efghijklmnopq"},
+    {"case_filename": "example016.jpg", "groundtruth": "rstuvwxyz12"},
+    {"case_filename": "example017.jpg", "groundtruth": "34567890."}
 ]
