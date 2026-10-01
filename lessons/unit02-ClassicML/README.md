@@ -25,6 +25,9 @@
 - Clustering: Silhouette Score (or something similar)
 - Dimension reduction: Reconstruction error, Distance preservation (correlation)
 - A complicated scenario: an E2E OCR behavior: detection(pixel-based v.s. coordinate-based), recognition (sequence modeling from region -> sequence of characters -> words), confidence scores. How to evaluate each module?
+- Object detection: intersection over union (IOU)
+- Confidence: Expected Calibration Error (ECE)
+- Sequence task evaluation: BLEU and ROUGE (but we do not talk much here; just a rough idea.)
 
 
 ## Assignments (or let's call it weekly sync-up)

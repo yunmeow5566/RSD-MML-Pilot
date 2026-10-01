@@ -24,3 +24,9 @@
 
 ## Materials
 1. BERT: [link](https://github.com/google-research/bert#introduction) a good resource for learning NLP concepts.
+2. embedding runtime: [git](https://github.com/qdrant/fastembed/tree/main/fastembed)
+3. LLM runtime: 
+- [LLM4free](https://pypi.org/project/llm4free/)
+- [transformers](https://pypi.org/project/transformers/) <= I prefer this one
+- [llmflex](https://pypi.org/project/llmflex/)
+4. Evaluation: [link](https://www.geeksforgeeks.org/nlp/understanding-bleu-and-rouge-score-for-nlp-evaluation/)

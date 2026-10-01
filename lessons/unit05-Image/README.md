@@ -1,6 +1,6 @@
 # Course Unit: Image processing with Neural Networks
 
-# Goals:
+## Goals:
 - Students can understand how image is stored and mapped to high-dimensional vectors.
 - Students can understand few image processing and understanding problems and connect it to machine learning models.
 - TODO: need to cut topics. we have more than we can cover.
@@ -20,3 +20,7 @@
 - Image captioning
 - Image generation
 - [link] (https://github.com/qubvel-org/segmentation_models.pytorch)
+
+
+## Materials
+- ImageNet: [link](https://image-net.org/index.php): good source for image data.
