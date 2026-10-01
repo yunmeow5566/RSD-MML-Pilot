@@ -5,5 +5,11 @@
     {"case_filename": "testcase2.jpg", "groundtruth": "goodbye"},
     {"case_filename": "testcase3.jpg", "groundtruth": "awesome"},
     {"case_filename": "testcase4.jpg", "groundtruth": "Cooper Pearson"},
-    {"case_filename": "testcase5.jpg", "groundtruth": "Solidworks"}
+    {"case_filename": "testcase5.jpg", "groundtruth": "Solidworks"},
+    {"case_filename": "TestImage01.jpg", "groundtruth": "Example"},
+    {"case_filename": "TestImage02.jpg", "groundtruth": "Hello world"},
+    {"case_filename": "TestImage03.jpg", "groundtruth": "Words"},
+    {"case_filename": "TestImage04.jpg", "groundtruth": "Text"},
+    {"case_filename": "TestImage05.jpg", "groundtruth": "Words Sample"},
+    {"case_filename": "TestImage06.jpg", "groundtruth": "Image"}
 ]
