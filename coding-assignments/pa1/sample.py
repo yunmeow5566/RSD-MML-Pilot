@@ -10,8 +10,8 @@ def get_reader(languages:list[str] = ['en']) -> easyocr.Reader:
 def get_text_from_image(image_path: str, reader: easyocr.Reader) -> list[str]:
     # Use the provided EasyOCR reader to extract text from the specified image.
     # The function returns a list of strings.
-    # Note that if you remove 'detail = 0', this function can return more details.
-    return reader.readtext(image_path, detail = 0)
+    # Note that if you remove 'detail=0', this function can return more details.
+    return reader.readtext(image_path, detail=0)
 
 reader = get_reader()
 
