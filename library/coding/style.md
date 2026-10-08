@@ -6,3 +6,7 @@ Please review the coding conventions for the languages below:
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 - [Java](https://google.github.io/styleguide/javaguide.html)
 - [Python](https://peps.python.org/pep-0008/)
+
+## Formatting Helpers
+1. Python helper: [black](https://github.com/psf/black)
+2. Ruff: a VSCode extension [link](https://github.com/astral-sh/ruff-vscode)

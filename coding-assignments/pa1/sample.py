@@ -1,5 +1,6 @@
-import easyocr
 from pathlib import Path
+
+import easyocr
 
 
 def get_reader(languages:list[str] = ['en']) -> easyocr.Reader:
