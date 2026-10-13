@@ -8,10 +8,11 @@ def main():
     # X has 20 data points, with three features/observations in each row.
     X = torch.randn(20, 3)
     print("X shape:", X.shape)
-    # The data was generated from w = 2x - 3y + 0.5z + 0.7.
+    # The data was generated from Y = 2x - 3w + 0.5z + 0.7 + noise
     true_coefficients = torch.tensor([[2.0], [-3.0], [0.5]])
     true_bias = torch.tensor([0.7])
-    Y = X @ true_coefficients + true_bias
+    noise = (torch.rand(20, 1) - 0.5) * 0.002
+    Y = X @ true_coefficients + true_bias + noise
     print("Y shape:", Y.shape)
 
     # Initial guess on coefficients
