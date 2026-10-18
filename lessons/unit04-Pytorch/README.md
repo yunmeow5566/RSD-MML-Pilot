@@ -21,3 +21,4 @@
 2. Existing models in pytorch: [link](https://docs.pytorch.org/vision/stable/models.html)
 3. Finetuning whisper: [link](https://huggingface.co/blog/fine-tune-whisper)
 4. Pytorch architecure: [link](https://deepwiki.com/harleyszhang/llm_note/5.2-pytorch-architecture)
+5. transformer auto models: [link](https://huggingface.co/docs/transformers/model_doc/auto)
