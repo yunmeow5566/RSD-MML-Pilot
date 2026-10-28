@@ -12,6 +12,7 @@
 - Students can compare and analyze the tradeoff between frequency of backward propagation and model converge speed.
 - Students can explore huggingface models.
 - Students are aware of the architecture of Pytorch
+- Students can identify overfitting and underfitting during model training.
 ## Assignments
 1. Read the description of at least one type of layers provided by Pytorch and describe when it can be used.
 2. Explore huggingface/transformers models and identify one you might want to perform finetuning (prepare for PA3 or PA4).
