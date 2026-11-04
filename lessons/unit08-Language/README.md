@@ -1,9 +1,12 @@
 # Course Unit: Language with Neural Networks
 
 ## Goals
-- Students can understand how natural language content is tranformed into high-dimensional vectors to feed into networks.
+- Students can understand how natural language content (text) is tranformed into high-dimensional vectors to feed into networks.
 - Students can compare various tokenization methods.
+- Students can describe how tokenization vocabs are generated and used for inference.
+- Students can understand why choosing matching tokenizer is critical.
 - Students can understand why format matters for using LLM: token count consideration
+- Students can reason pros and cons of large vocab size.
 - Students can understand what embedding layers are doing and used for NLP tasks.
 - Students can understand few languange processing and understanding problems and connect it to machine learning models.
 - Students can link NLP problems to real world tasks.
@@ -40,3 +43,8 @@
 
 ## Instruction Notes
 - emphasize the challenges of sequence problems, share some algorithms/models like RNN?
+- Tokenization:
+1. Byte-Pair Encoding (BPE): merge based on frequency
+2. WordPiece: merge based on score of count(AB)/(count(A) * count(B))
+3. SentencePiece (with its Unigram model): treat space as just a character/unicode, unigram -> prune tokens.
+4. Tiktoken (OpenAI's optimised BPE implementation): byte level BPE
