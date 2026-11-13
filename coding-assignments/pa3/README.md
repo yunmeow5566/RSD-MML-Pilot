@@ -1,8 +1,8 @@
-Due: TBD
 # Programming Assignment 3: Play with pretrained DL models
 
 ## Goals
 - Students can investigate on various pretrained model and use them.
+- Students can identify dataset and proper metrics to measure model performance.
 
 ## Requirements
 - Students should verify the capabilities of their computers: how big the model they can run inference, and expected latency.
