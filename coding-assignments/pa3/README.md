@@ -9,3 +9,8 @@
 - Students should define a scenario they want to solve with this model.
 - Student should be responsible for defining metrics for measuring the model performance
 - Students should have at least 20 meaningful test cases with GT to run evaluation.
+- Students should measure inference time on their own machines. 
+
+# Notes:
+- Some models might be too big for CPU machines.
+- If inference takes a lot of time already, we cannot do finetuning.

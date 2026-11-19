@@ -1,5 +1,5 @@
-Due: TBD
-# Programming Assignment 4: finetune a pretrained model
+
+# Programming Assignment 4: finetune a pretrained model (Need to skip unless we have GPU/small models)
 
 ## Goals
 - Students learn to find proper pretrained model and use training methods to finetune for their target tasks.
