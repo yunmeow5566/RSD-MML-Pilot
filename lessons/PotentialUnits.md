@@ -10,3 +10,6 @@ This is a parking lot for course units we might add.
 
 ## Reinforcement Learning
 - common for game robot training.
+
+## Finetuning techniques
+- Techniques to reuse pretrained models
